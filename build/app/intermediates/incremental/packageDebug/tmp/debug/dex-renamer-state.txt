@@ -1,0 +1,4 @@
+#Mon May 06 16:35:53 EET 2024
+base.0=/home/mk/Projects/rick_and_morty/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
