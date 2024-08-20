@@ -1,4 +1,4 @@
-import 'package:breaking/constants/app_router.dart';
+import 'package:breaking/router/app_router.dart';
 import 'package:flutter/material.dart';
 
 void main() {
